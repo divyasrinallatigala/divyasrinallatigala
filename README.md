@@ -1,6 +1,3 @@
-<!-- Banner -->
-![GitHub Banner](https://i.ibb.co/5GqjY3f/github-banner.png) <!-- You can replace this with your own image -->
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Divya+Sri+Nallatigala;AI+Enthusiast+%7C+Web+Developer;Lifelong+Learner+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
